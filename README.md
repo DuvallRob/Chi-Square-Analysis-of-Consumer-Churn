@@ -76,7 +76,7 @@ To ensure complete reproducibility and avoid cross-language environment configur
 
 ### 1. Build the Docker Image
 From the root directory of the project (where the `Dockerfile` is located), run the following command to build the image. This will install all necessary R packages, Python dependencies (including Hugging Face and PyTorch), and system libraries:
-    docker build -t churn-analysis-pipeline .
+    docker build -t churn-analysis-pipeline.
 
 ### 2. Run the Full Pipeline
 To execute the data preparation, SMOTE expansion, model training, and evaluation scripts (`run_pipeline.R`) completely inside the container:
