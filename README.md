@@ -1,4 +1,4 @@
-# Chi-Square Analysis of Consumer Churn
+# Chi-Square Analysis of Consumer Churn (WGU MS Data Science Capstone)
 
 ## Project Overview
 This repository contains a hybrid R and Python data analysis pipeline designed to evaluate consumer churn[cite: 4]. The primary objective is to determine if financial institutions can utilize predictive modeling to estimate customer attrition and deploy targeted interventions based on consumer complaint product categories[cite: 4].
